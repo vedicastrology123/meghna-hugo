@@ -1,9 +1,13 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Astrological Advice
+  title : Astrology Advice
   subtitle : We provide advice on every aspect of Vedic Astrology.
-  content : Vedic Astrology advice and Horoscope Predictions & Readings by Steve Hora, Vedic Astrologer, using a prediction technique from Tamil Nadi Grantha. Sanskrit Numerology and Vastu. Shri Chakra based Mantra, Yantra and Tantra personalized to your horoscope. Prasna Marga - Time of asking question plays an important role in Prasna Marga. This shastra limits to ask and answer only one question for a day. Free Vedic Astrology Advice as Most Valuable Writer on Quora.
+  content : Vedic Astrology advice and Horoscope Predictions & Readings by Steve Hora, Vedic Astrologer, using a prediction technique from Tamil Nadi Grantha.
+  Sanskrit Numerology and Vastu.
+  Shri Chakra based Mantra, Yantra and Tantra personalized to your horoscope.
+  Prasna Marga - Time of asking question plays an important role in Prasna Marga. This shastra limits to ask and answer only one question for a day.
+  Free Vedic Astrology Advice as Most Valuable Writer on Quora.
   image : images/about/Vedic-Astrology-Advice-Steve-Hora-100x100.png
   skill_Item :
     - name :  Vedic Horoscope Prediction
