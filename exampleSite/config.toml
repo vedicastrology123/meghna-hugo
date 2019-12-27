@@ -73,7 +73,7 @@ URL = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 URL = "plugins/wow/wow.min.js"
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/shrichakra.png"
 [[params.social_Icon]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/SteveHoraAstrologer/"
