@@ -3,7 +3,7 @@ service:
   enable : true
   title : Our Services
   service_Item :
-    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    - image : images/team/team-1.jpg
       title : Horoscope Predictions
       content : Accurate Vedic Horoscope Predictions using a technique and algorithm  from Nadi.
       
