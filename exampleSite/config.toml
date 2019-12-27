@@ -74,7 +74,7 @@ URL = "plugins/wow/wow.min.js"
 [params.preloader]
 enable = true
 preloader = "images/shrichakra.png"
-[[params.social_Icon]]
+[[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/SteveHoraAstrologer/"
 [[params.social_Icon]]
