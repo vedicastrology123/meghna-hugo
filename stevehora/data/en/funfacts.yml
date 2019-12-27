@@ -9,16 +9,16 @@ funfacts:
       count : "320"
     
     # counter item loop
-    - title : "Projects completed"
+    - title : "Horoscopes predicted"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+      count : "1250"
     
     # counter item loop
-    - title : "Positive feedback"
+    - title : "Questions Answered"
       icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
+      count : "2119"
     
     # counter item loop
-    - title : "Cups of Coffee"
+    - title : "Accolades"
       icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
       count : "250"
