@@ -3,9 +3,9 @@ banner:
   enable : true
   bg_Image : "images/slider/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Vedic Astrology Advice"
+  content : "By Steve Hora, Vedic Astrologer, https://www.quora.com/profile/Steve-Hora"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Explore the website"
     link : "#services"
