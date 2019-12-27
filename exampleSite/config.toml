@@ -75,14 +75,14 @@ URL = "plugins/wow/wow.min.js"
 enable = true
 preloader = "images/shrichakra.png"
 [[params.social_Icon]]
-icon = "ti-facebook"
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/SteveHoraAstrologer/"
 [[params.social_Icon]]
-icon = "ti-twitter-alt"
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "https://twitter.com/AstrologyOrbit"
 [[params.social_Icon]]
-icon = "ti-youtube"
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCakwfKTqhG9rjpmvQLAsYxA"
 [[params.social_Icon]]
-icon = "ti-linkedin"
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/steve-hora-astrologer-horoscope-prediction-expert-2880a3101/"
