@@ -1,7 +1,7 @@
 baseURL = "https://vedicastrologyadvice.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-disableLanguages = [""]
+disableLanguages = ["Fr", ""]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -35,10 +35,6 @@ weight = 3
 URL = "team"
 name = "Team"
 weight = 4
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 5
 [[menu.main]]
 URL = "blog"
 name = "Blog"
