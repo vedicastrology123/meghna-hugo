@@ -3,7 +3,7 @@ service:
   enable : true
   title : Our Solutions
   service_Item :
-    - image : images/about/about-business-man.jpg
+    - icon : ti-layout-grid4 # themify icon pack : https://themify.me/themify-icons
       name : Horoscope Predictions
       content : Accurate Vedic Horoscope Predictions using a technique and algorithm  from Nadi.
       
