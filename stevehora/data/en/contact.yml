@@ -4,7 +4,7 @@ contact:
   title : Contact Us
   subtitle : Contact Details
   content : Please contact us with your email, for further enquiries.
-  form_Action: "#" #contact form works with https://formspree.io
+  form_Action: "https://formspree.io/xeqelqzw" #contact form works with https://formspree.io
   map:
     enable : false
     gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
