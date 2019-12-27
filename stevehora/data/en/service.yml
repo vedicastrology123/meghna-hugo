@@ -3,7 +3,7 @@ service:
   enable : true
   title : Our Services
   service_Item :
-    - image : images/about/Vedic-Astrology-Advice-Steve-Hora-100x100.png
+    - bg_Image : images/about/Vedic-Astrology-Advice-Steve-Hora-100x100.png
       title : Horoscope Predictions
       content : Accurate Vedic Horoscope Predictions using a technique and algorithm  from Nadi.
       
