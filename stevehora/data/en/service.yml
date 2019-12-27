@@ -7,22 +7,10 @@ service:
       title : Horoscope Predictions
       content : Accurate Vedic Horoscope Predictions using a technique and algorithm  from Nadi.
       
-    - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+    - icon : ti-settings # themify icon pack : https://themify.me/themify-icons
       title : Shri Chakra Meditation
       content : Personalized Shri Chakra as per your horoscope. Personalized yantra and mantra as per Vedic traditions.
       
-    - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+    - icon : ti-star # themify icon pack : https://themify.me/themify-icons
       title : Prasna Marga
       content : Get questions answered according to the time of the question.
-      
-    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      title : Graphic Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      title : Apps Development
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      title : Networking
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
