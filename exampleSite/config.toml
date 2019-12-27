@@ -44,8 +44,8 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Steve Hora"
+description = "Vedic Astrology Advice"
 googleAnalitycsID = "Your ID"
 logo = "images/logo.png"
 postShare = true
@@ -85,10 +85,4 @@ icon = "ti-youtube"
 link = "#"
 [[params.social_Icon]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-pinterest"
 link = "#"
