@@ -4,7 +4,7 @@ banner:
   bg_Image : "images/slider/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Vedic Astrology Advice"
-  content : "By Steve Hora, Vedic Astrologer, https://www.quora.com/profile/Steve-Hora"
+  content : "By Steve Hora, Vedic Astrologer"
   button:
     enable : true
     label : "Explore the website"
