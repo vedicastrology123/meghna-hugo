@@ -4,13 +4,13 @@ about:
   title : About Us
   about_Item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
+    title : In Depth Knowledge
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
+    title : Privacy
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
+    title : Accurate Predictions
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

@@ -6,11 +6,11 @@ funfacts:
     # counter item loop
     - title : "Happy Clients"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+      count : "1320"
     
     # counter item loop
     - title : "Horoscopes predicted"
-      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-layout-grid4" # themify icon pack : https://themify.me/themify-icons
       count : "1250"
     
     # counter item loop
