@@ -46,7 +46,7 @@ weight = 7
 [params]
 author = "Steve Hora"
 description = "Vedic Astrology Advice"
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-87949467-1"
 logo = "images/logo.png"
 postShare = true
 [[params.plugins.css]]
