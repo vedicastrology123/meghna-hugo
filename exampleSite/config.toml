@@ -47,7 +47,7 @@ weight = 7
 author = "Steve Hora"
 description = "Vedic Astrology Advice"
 googleAnalitycsID = "UA-87949467-1"
-logo = "images/SC.jpeg"
+logo = "images/shrichakra.png"
 postShare = true
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
