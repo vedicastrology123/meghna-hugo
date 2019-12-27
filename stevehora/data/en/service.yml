@@ -4,16 +4,16 @@ service:
   title : Our Services
   service_Item :
     - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : WordPress Theme
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      title : Horoscope Predictions
+      content : Accurate Vedic Horoscope Predictions using a technique and algorithm  from Nadi.
       
     - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      title : Responsive Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      title : Shri Chakra Meditation
+      content : Personalized Shri Chakra as per your horoscope. Personalized yantra and mantra as per Vedic traditions.
       
     - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      title : Media &amp; Advertisement
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      title : Prasna Marga
+      content : Get questions answered according to the time of the question.
       
     - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       title : Graphic Design
