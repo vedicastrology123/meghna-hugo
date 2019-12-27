@@ -1,22 +1,23 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.png
+  title : Our Astrological Advice
+  subtitle : We provide advice on every aspect of Vedic Astrology.
+  content : Vedic Astrology advice and Horoscope Predictions & Readings by Steve Hora, Vedic Astrologer, using a prediction technique from Tamil Nadi Grantha.
+  Sanskrit Numerology and Vastu.
+  Shri Chakra based Mantra, Yantra and Tantra personalized to your horoscope.
+  Prasna Marga - Time of asking question plays an important role in Prasna Marga. This shastra limits to ask and answer only one question for a day.
+  Free Vedic Astrology Advice as Most Valuable Writer on Quora.
+  image : images/about/Vedic-Astrology-Advice-Steve-Hora-100x100.png
   skill_Item :
-    - name :  Business Development
+    - name :  Vedic Horoscope Prediction
       percent : 90%
       
-    - name :  Analysis
+    - name :  Shri Chakra Meditation - Mantra, Yantra and Tantra
       percent : 70%
       
-    - name :  Design
+    - name :  Prasna Marga
       percent : 80%
       
-    - name :  IOS Development
+    - name :  Sanskrit Numerologyand Vastu
       percent : 95%
-      
-    - name :  Andriod Development
-      percent : 75%
