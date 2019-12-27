@@ -4,7 +4,7 @@ service:
   title : Our Solutions
   service_Item :
     - icon : ti-layout-grid4 # themify icon pack : https://themify.me/themify-icons
-      name : Horoscope Predictions
+      title : Horoscope Predictions
       content : Accurate Vedic Horoscope Predictions using a technique and algorithm  from Nadi.
       
     - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
