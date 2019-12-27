@@ -3,8 +3,8 @@ service:
   enable : true
   title : Our Services
   service_Item :
-    - icon : images/about/Vedic-Astrology-Advice-Steve-Hora-100x100.png
-      title : Horoscope Predictions
+    - image : images/about/about-business-man.jpg
+      name : Horoscope Predictions
       content : Accurate Vedic Horoscope Predictions using a technique and algorithm  from Nadi.
       
     - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
