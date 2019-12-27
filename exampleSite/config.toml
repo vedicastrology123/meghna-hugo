@@ -76,7 +76,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social_Icon]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/SteveHoraAstrologer/"
 [[params.social_Icon]]
 icon = "ti-twitter-alt"
 link = "#"
