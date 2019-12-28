@@ -1,11 +1,11 @@
-baseURL = "https://stevehora.netlify.com"
+baseURL = "http://localhost:1313"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "Vedic"
+theme = "meghna-hugo"
 title = "Vedic Astrology Advice"
 [Languages.en]
 contentDir = "content/english"
